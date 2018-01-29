@@ -1,0 +1,9 @@
+C:\Development\Sandbox\GameOfLifeApplication\GameOfLifeApplication\bin\Debug\GameOfLifeApplication.exe.config
+C:\Development\Sandbox\GameOfLifeApplication\GameOfLifeApplication\bin\Debug\GameOfLifeApplication.exe
+C:\Development\Sandbox\GameOfLifeApplication\GameOfLifeApplication\bin\Debug\GameOfLifeApplication.pdb
+C:\Development\Sandbox\GameOfLifeApplication\GameOfLifeApplication\obj\Debug\GameOfLifeApplication.csprojResolveAssemblyReference.cache
+C:\Development\Sandbox\GameOfLifeApplication\GameOfLifeApplication\obj\Debug\GameOfLifeApplication.Properties.Resources.resources
+C:\Development\Sandbox\GameOfLifeApplication\GameOfLifeApplication\obj\Debug\GameOfLifeApplication.csproj.GenerateResource.Cache
+C:\Development\Sandbox\GameOfLifeApplication\GameOfLifeApplication\obj\Debug\GameOfLifeApplication.csproj.CoreCompileInputs.cache
+C:\Development\Sandbox\GameOfLifeApplication\GameOfLifeApplication\obj\Debug\GameOfLifeApplication.exe
+C:\Development\Sandbox\GameOfLifeApplication\GameOfLifeApplication\obj\Debug\GameOfLifeApplication.pdb
